@@ -1,6 +1,5 @@
-background:
-header and footer:
-core:
-contrast:
-accent:
-division:
+background: #F5F1ED
+division, header and footer: #70798C
+core: #DAD2BC
+contrast: #B5BA72
+accent: #A99985
